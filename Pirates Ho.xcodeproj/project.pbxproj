@@ -21,6 +21,24 @@
 		7B978FA318CB3BB10033D8FA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B978F8518CB3BB10033D8FA /* UIKit.framework */; };
 		7B978FAB18CB3BB10033D8FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FA918CB3BB10033D8FA /* InfoPlist.strings */; };
 		7B978FAD18CB3BB10033D8FA /* Pirates_HoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FAC18CB3BB10033D8FA /* Pirates_HoTests.m */; };
+		7B978FB918CB9B9B0033D8FA /* CCTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FB818CB9B9B0033D8FA /* CCTile.m */; };
+		7B978FBC18CBA58C0033D8FA /* CCFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FBB18CBA58C0033D8FA /* CCFactory.m */; };
+		7B978FCA18CC08E30033D8FA /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FBE18CC08E30033D8FA /* 1.jpg */; };
+		7B978FCB18CC08E30033D8FA /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FBF18CC08E30033D8FA /* 2.jpg */; };
+		7B978FCC18CC08E30033D8FA /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC018CC08E30033D8FA /* 3.jpg */; };
+		7B978FCD18CC08E30033D8FA /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC118CC08E30033D8FA /* 4.jpg */; };
+		7B978FCE18CC08E30033D8FA /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC218CC08E30033D8FA /* 5.jpg */; };
+		7B978FCF18CC08E30033D8FA /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC318CC08E30033D8FA /* 6.jpg */; };
+		7B978FD018CC08E30033D8FA /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC418CC08E30033D8FA /* 7.jpg */; };
+		7B978FD118CC08E30033D8FA /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC518CC08E30033D8FA /* 8.jpg */; };
+		7B978FD218CC08E30033D8FA /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC618CC08E30033D8FA /* 9.jpg */; };
+		7B978FD318CC08E30033D8FA /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC718CC08E30033D8FA /* 10.jpg */; };
+		7B978FD418CC08E30033D8FA /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC818CC08E30033D8FA /* 11.jpg */; };
+		7B978FD518CC08E30033D8FA /* woman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B978FC918CC08E30033D8FA /* woman.jpg */; };
+		7B978FF218CE96FF0033D8FA /* CCWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FF118CE96FF0033D8FA /* CCWeapon.m */; };
+		7B978FF518CE973E0033D8FA /* CCArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FF418CE973E0033D8FA /* CCArmor.m */; };
+		7B978FF818CE97940033D8FA /* CCCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FF718CE97940033D8FA /* CCCharacter.m */; };
+		7B978FFB18CFFAFA0033D8FA /* CCBoss.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B978FFA18CFFAFA0033D8FA /* CCBoss.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +71,30 @@
 		7B978FA818CB3BB10033D8FA /* Pirates HoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pirates HoTests-Info.plist"; sourceTree = "<group>"; };
 		7B978FAA18CB3BB10033D8FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7B978FAC18CB3BB10033D8FA /* Pirates_HoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pirates_HoTests.m; sourceTree = "<group>"; };
+		7B978FB718CB9B9B0033D8FA /* CCTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTile.h; sourceTree = "<group>"; };
+		7B978FB818CB9B9B0033D8FA /* CCTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTile.m; sourceTree = "<group>"; };
+		7B978FBA18CBA58C0033D8FA /* CCFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCFactory.h; sourceTree = "<group>"; };
+		7B978FBB18CBA58C0033D8FA /* CCFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCFactory.m; sourceTree = "<group>"; };
+		7B978FBE18CC08E30033D8FA /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		7B978FBF18CC08E30033D8FA /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		7B978FC018CC08E30033D8FA /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		7B978FC118CC08E30033D8FA /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		7B978FC218CC08E30033D8FA /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		7B978FC318CC08E30033D8FA /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		7B978FC418CC08E30033D8FA /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		7B978FC518CC08E30033D8FA /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		7B978FC618CC08E30033D8FA /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		7B978FC718CC08E30033D8FA /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		7B978FC818CC08E30033D8FA /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		7B978FC918CC08E30033D8FA /* woman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = woman.jpg; sourceTree = "<group>"; };
+		7B978FF018CE96FF0033D8FA /* CCWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCWeapon.h; sourceTree = "<group>"; };
+		7B978FF118CE96FF0033D8FA /* CCWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCWeapon.m; sourceTree = "<group>"; };
+		7B978FF318CE973E0033D8FA /* CCArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCArmor.h; sourceTree = "<group>"; };
+		7B978FF418CE973E0033D8FA /* CCArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCArmor.m; sourceTree = "<group>"; };
+		7B978FF618CE97940033D8FA /* CCCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCCharacter.h; sourceTree = "<group>"; };
+		7B978FF718CE97940033D8FA /* CCCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCCharacter.m; sourceTree = "<group>"; };
+		7B978FF918CFFAFA0033D8FA /* CCBoss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBoss.h; sourceTree = "<group>"; };
+		7B978FFA18CFFAFA0033D8FA /* CCBoss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBoss.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +160,7 @@
 				7B978F9618CB3BB10033D8FA /* CCViewController.h */,
 				7B978F9718CB3BB10033D8FA /* CCViewController.m */,
 				7B978F9918CB3BB10033D8FA /* Images.xcassets */,
+				7B978FB618CB9B670033D8FA /* Model */,
 				7B978F8818CB3BB10033D8FA /* Supporting Files */,
 			);
 			path = "Pirates Ho";
@@ -126,6 +169,7 @@
 		7B978F8818CB3BB10033D8FA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7B978FBD18CC05850033D8FA /* ImagesForBackground */,
 				7B978F8918CB3BB10033D8FA /* Pirates Ho-Info.plist */,
 				7B978F8A18CB3BB10033D8FA /* InfoPlist.strings */,
 				7B978F8D18CB3BB10033D8FA /* main.m */,
@@ -150,6 +194,44 @@
 				7B978FA918CB3BB10033D8FA /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7B978FB618CB9B670033D8FA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7B978FF018CE96FF0033D8FA /* CCWeapon.h */,
+				7B978FF118CE96FF0033D8FA /* CCWeapon.m */,
+				7B978FF318CE973E0033D8FA /* CCArmor.h */,
+				7B978FF418CE973E0033D8FA /* CCArmor.m */,
+				7B978FF618CE97940033D8FA /* CCCharacter.h */,
+				7B978FF718CE97940033D8FA /* CCCharacter.m */,
+				7B978FB718CB9B9B0033D8FA /* CCTile.h */,
+				7B978FBA18CBA58C0033D8FA /* CCFactory.h */,
+				7B978FBB18CBA58C0033D8FA /* CCFactory.m */,
+				7B978FB818CB9B9B0033D8FA /* CCTile.m */,
+				7B978FF918CFFAFA0033D8FA /* CCBoss.h */,
+				7B978FFA18CFFAFA0033D8FA /* CCBoss.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		7B978FBD18CC05850033D8FA /* ImagesForBackground */ = {
+			isa = PBXGroup;
+			children = (
+				7B978FBE18CC08E30033D8FA /* 1.jpg */,
+				7B978FBF18CC08E30033D8FA /* 2.jpg */,
+				7B978FC018CC08E30033D8FA /* 3.jpg */,
+				7B978FC118CC08E30033D8FA /* 4.jpg */,
+				7B978FC218CC08E30033D8FA /* 5.jpg */,
+				7B978FC318CC08E30033D8FA /* 6.jpg */,
+				7B978FC418CC08E30033D8FA /* 7.jpg */,
+				7B978FC518CC08E30033D8FA /* 8.jpg */,
+				7B978FC618CC08E30033D8FA /* 9.jpg */,
+				7B978FC718CC08E30033D8FA /* 10.jpg */,
+				7B978FC818CC08E30033D8FA /* 11.jpg */,
+				7B978FC918CC08E30033D8FA /* woman.jpg */,
+			);
+			name = ImagesForBackground;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,7 +311,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B978FD318CC08E30033D8FA /* 10.jpg in Resources */,
+				7B978FD518CC08E30033D8FA /* woman.jpg in Resources */,
+				7B978FD118CC08E30033D8FA /* 8.jpg in Resources */,
+				7B978FCF18CC08E30033D8FA /* 6.jpg in Resources */,
 				7B978F9A18CB3BB10033D8FA /* Images.xcassets in Resources */,
+				7B978FCE18CC08E30033D8FA /* 5.jpg in Resources */,
+				7B978FD418CC08E30033D8FA /* 11.jpg in Resources */,
+				7B978FCD18CC08E30033D8FA /* 4.jpg in Resources */,
+				7B978FCA18CC08E30033D8FA /* 1.jpg in Resources */,
+				7B978FCB18CC08E30033D8FA /* 2.jpg in Resources */,
+				7B978FCC18CC08E30033D8FA /* 3.jpg in Resources */,
+				7B978FD018CC08E30033D8FA /* 7.jpg in Resources */,
+				7B978FD218CC08E30033D8FA /* 9.jpg in Resources */,
 				7B978F8C18CB3BB10033D8FA /* InfoPlist.strings in Resources */,
 				7B978F9518CB3BB10033D8FA /* Main.storyboard in Resources */,
 			);
@@ -251,8 +345,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B978F9218CB3BB10033D8FA /* CCAppDelegate.m in Sources */,
+				7B978FBC18CBA58C0033D8FA /* CCFactory.m in Sources */,
 				7B978F8E18CB3BB10033D8FA /* main.m in Sources */,
+				7B978FF818CE97940033D8FA /* CCCharacter.m in Sources */,
 				7B978F9818CB3BB10033D8FA /* CCViewController.m in Sources */,
+				7B978FB918CB9B9B0033D8FA /* CCTile.m in Sources */,
+				7B978FF518CE973E0033D8FA /* CCArmor.m in Sources */,
+				7B978FF218CE96FF0033D8FA /* CCWeapon.m in Sources */,
+				7B978FFB18CFFAFA0033D8FA /* CCBoss.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
